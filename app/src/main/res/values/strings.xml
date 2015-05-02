@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+   <string name="action_settings">Settings</string>
+    <string name="User_Name">UserName</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_Password">ConfirmPassword</string>
+    <string name="Create_Account">CreateAccount</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_to_do_list">ToDoList</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+
+</resources>
